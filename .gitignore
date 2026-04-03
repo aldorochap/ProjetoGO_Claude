@@ -1,0 +1,19 @@
+# Binários Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/bin/
+
+# Cache Go
+/vendor/
+*.test
+*.out
+
+# VS Code
+.vscode/
+
+# Variáveis de ambiente
+.env
+*.env
